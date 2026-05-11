@@ -1,4 +1,4 @@
-﻿name@version *,license *,copyrights *,end-of-support,dependencies,language,repository,email,URL
+name@version *,license *,copyrights *,end-of-support,dependencies,language,repository,email,URL
 activation-1.0.2.jar,CDDL-1.0,-,-,-,Java,-,-,-
 aopalliance-1.0.0.jar,Public Domain,-,-,-,Java,-,-,-
 asm-3.3.1.jar,BSD-3-Clause,-,-,-,Java,-,-,-
@@ -36,3 +36,4 @@ swagger-jaxrs-1.5.18.jar,Apache-2.0,-,-,-,Java,-,-,-
 util-perf-1.0.0.jar,"Apache-2.0, MIT (Rilasciata da CSI Piemonte su richiesta)",CSI Piemonte,-,-,Java,-,-,-
 validation-api-1.0.0.GA-redhat-3.jar,Apache-2.0,-,-,-,Java,-,-,-
 xerces-1.4.4.jar,Apache-2.0,-,-,-,Java,-,-,-
+start
